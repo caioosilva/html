@@ -1,0 +1,19 @@
+.navbar{
+    background-color: rgb(242, 87, 87);
+    margin-bottom: 50px;
+}
+.josias{
+    background-color: rgb(170, 170, 190);
+    color: rgb(145, 66, 145);
+}
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.canguru{
+    background-color: rgb(230, 78, 78);
+}
+.bg-footer{
+    background-color: burlywood;
+    color: blue;
+}
